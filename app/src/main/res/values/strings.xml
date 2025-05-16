@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVICompose</string>
+    <string name="enter_name_label">İsminizi girin</string>
+    <string name="greet_button">Selamla</string>
+    <string name="empty_name_warning">Lütfen önce isim girin!</string>
+    <string name="greeting_message">Merhaba, %1$s!</string>
+</resources>
